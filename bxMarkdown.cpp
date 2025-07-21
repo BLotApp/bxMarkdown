@@ -1,4 +1,4 @@
-#include "bxMarkdown.h" 
+#include "bxMarkdown.h"
 
 bxMarkdown::bxMarkdown()
 	: blot::AddonBase("bxMarkdown", "0.1.0"), m_initialized(false),
